@@ -1,9 +1,5 @@
 # Higgs–Hitchin RG-ML
 
-**A Wilsonian Renormalization Group Framework for Deep Learning  
-Founded on Higgs Bundles and the Hitchin Completely Integrable System**
-
----
 
 > *"The self-duality equations on a Riemann surface define a hyperkähler manifold
 > whose geometry encodes simultaneously the topology of the surface, the

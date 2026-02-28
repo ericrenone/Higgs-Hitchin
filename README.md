@@ -1,4 +1,4 @@
-# Higgs–Hitchin RG-ML
+# Higgs–Hitchin
 
 
 > *"The self-duality equations on a Riemann surface define a hyperkähler manifold
